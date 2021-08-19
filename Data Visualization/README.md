@@ -1,1 +1,1 @@
-# Ek Açıklama
+# Ek Açıklama bu bir denemedir
