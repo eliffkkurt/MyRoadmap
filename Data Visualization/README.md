@@ -1,1 +1,1 @@
-
+# Ek Açıklama
