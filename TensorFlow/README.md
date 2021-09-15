@@ -1,10 +1,10 @@
 # **Youtube - Aladdin Persson Kanalı - TensorFlow 2.0 Beginner Tutorials serisi**
 
-TensorFlow Tutorial 2 - Tensor Basics - Aladdin Persson anlattı. 
+## 1. TensorFlow Tutorial 2 - Tensor Basics 
 
 **Video:** [TensorFlow Tutorial 2 - Tensor Basics](https://www.youtube.com/watch?v=HPjBY1H-U4U&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=2)
 
-## İçindekiler
+### İçindekiler
 
 **Initialization of Tensors**
 * How we create a tensor?
