@@ -17,3 +17,24 @@
 * Matrix Multiplication
 
 **Indexing**
+
+
+## 2. TensorFlow Tutorial 3 - Neural Networks with Sequential and Functional API
+
+**Video:** [TensorFlow Tutorial 3 - Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=pAhPiF3yiXI&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=3)
+
+### İçindekiler
+
+**MNIST Dataset**
+
+**Loading Dataset**
+
+**Preprocessing Dataset**
+
+**Creating a Basic Neural Network**
+* Sequential API
+* Functional API
+* Extract Spesific Layer Outputs
+* Extract All Layer's Features
+
+**Suggestions**
