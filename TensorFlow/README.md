@@ -38,3 +38,21 @@
 * Extract All Layer's Features
 
 **Suggestions**
+
+## 3. TensorFlow Tutorial 4 - Convolutional Neural Networks with Sequential and Functional API
+
+**Video:** [TensorFlow Tutorial 4 - Convolutional Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=WAciKiDP2bo&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=4)
+
+### İçindekiler
+
+**CIFAR 10 Dataset**
+
+**Loading Dataset**
+
+**Preprocessing Dataset**
+
+**Creating Convolutional Neural Network**
+* Sequential API Kullanarak
+* Functional API Kullanarak
+
+**Suggestions**
