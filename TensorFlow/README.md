@@ -56,3 +56,16 @@
 * Functional API Kullanarak
 
 **Suggestions**
+
+## 4. TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout
+
+**Video:** [TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout](https://www.youtube.com/watch?v=kJSUq1PLmWg&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=5)
+
+### İçindekiler
+
+**Loading Dataset**
+
+**Preprocessing Dataset**
+
+**Creating Convolutional Neural Network**
+* L2 regularization, dropout, batch norm eklendi.
