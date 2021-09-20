@@ -69,3 +69,21 @@
 
 **Creating Convolutional Neural Network**
 * L2 regularization, dropout, batch norm eklendi.
+
+## 5. TensorFlow Tutorial 6 - RNNs, GRUs, LSTMs and Bidirectionality
+
+**Video:** [TensorFlow Tutorial 6 - RNNs, GRUs, LSTMs and Bidirectionality](https://www.youtube.com/watch?v=Ogvd787uJO8&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=6)
+
+### İçindekiler
+
+**Loading Dataset**
+
+**Preprocessing Dataset**
+
+**Creating a Recurrent Neural Network (RNN)**
+
+**Creating a Gated Recurrent Unit (GRU)**
+
+**Creating a Long Short Term Memory Network (LSTM)**
+
+**Bidirectional Long-Short Term Memory (Bidirectional LSTM)**
