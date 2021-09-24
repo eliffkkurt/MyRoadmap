@@ -1,4 +1,7 @@
-# **Youtube - Aladdin Persson Kanalı - TensorFlow 2.0 Beginner Tutorials serisi**
+**Kaynaklar**
+* Youtube - Aladdin Persson Kanalı - TensorFlow 2.0 Beginner Tutorials
+* Youtube - James Briggs Kanalı - TensorFlow Essentials
+
 
 ## 1. TensorFlow Tutorial 2 - Tensor Basics 
 
@@ -87,3 +90,31 @@
 **Creating a Long Short Term Memory Network (LSTM)**
 
 **Bidirectional Long-Short Term Memory (Bidirectional LSTM)**
+
+## 6. Input Data Pipelines - TensorFlow Essentials #4 (Data Okuma Şekilleri)
+
+**Video:** [Input Data Pipelines - TensorFlow Essentials #4](https://www.youtube.com/watch?v=f6XVfgJTbp4&list=PLIUOU7oqGTLh6hTOjTbpkEOY-N4Kizpp4&index=4) 
+
+### İçindekiler
+
+**Reading the Data from Memory**
+*   As List
+*   As Numpy Array
+*   As Pandas Dataframe
+
+**Reading the Data from File**
+*   With Tensorflow
+*   With Pandas
+
+## 7. TensorFlow Tutorial 7 - More in Depth Example on Functional API
+
+**Video:** [TensorFlow Tutorial 7 - More in Depth Example on Functional API](https://www.youtube.com/watch?v=gRRGr_tJnAA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=7)
+
+### İçindekiler
+
+**Loading Dataset**
+
+**Preprocessing Dataset**
+
+**Creating Convolutional Neural Network**
+* Functional API kullanarak modeli oluşturduk. Birden fazla outputu olduğu için burada functional api kullanmak daha mantıklıydı.
