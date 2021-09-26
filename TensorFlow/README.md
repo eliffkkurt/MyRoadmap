@@ -1,4 +1,4 @@
-**Kaynaklar**
+**Resources**
 * Youtube - Aladdin Persson Kanalı - TensorFlow 2.0 Beginner Tutorials
 * Youtube - James Briggs Kanalı - TensorFlow Essentials
 
@@ -7,7 +7,7 @@
 
 **Video:** [TensorFlow Tutorial 2 - Tensor Basics](https://www.youtube.com/watch?v=HPjBY1H-U4U&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=2)
 
-### İçindekiler
+### Contents
 
 **Initialization of Tensors**
 * How we create a tensor?
@@ -26,7 +26,7 @@
 
 **Video:** [TensorFlow Tutorial 3 - Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=pAhPiF3yiXI&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=3)
 
-### İçindekiler
+### Contents
 
 **MNIST Dataset**
 
@@ -46,7 +46,7 @@
 
 **Video:** [TensorFlow Tutorial 4 - Convolutional Neural Networks with Sequential and Functional API](https://www.youtube.com/watch?v=WAciKiDP2bo&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=4)
 
-### İçindekiler
+### Contents
 
 **CIFAR 10 Dataset**
 
@@ -55,8 +55,8 @@
 **Preprocessing Dataset**
 
 **Creating Convolutional Neural Network**
-* Sequential API Kullanarak
-* Functional API Kullanarak
+* Using Sequential API 
+* Using Functional API 
 
 **Suggestions**
 
@@ -64,20 +64,20 @@
 
 **Video:** [TensorFlow Tutorial 5 - Adding Regularization with L2 and Dropout](https://www.youtube.com/watch?v=kJSUq1PLmWg&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=5)
 
-### İçindekiler
+### Contents
 
 **Loading Dataset**
 
 **Preprocessing Dataset**
 
 **Creating Convolutional Neural Network**
-* L2 regularization, dropout, batch norm eklendi.
+* Added L2 regularization, dropout and batch norm.
 
 ## 5. TensorFlow Tutorial 6 - RNNs, GRUs, LSTMs and Bidirectionality
 
 **Video:** [TensorFlow Tutorial 6 - RNNs, GRUs, LSTMs and Bidirectionality](https://www.youtube.com/watch?v=Ogvd787uJO8&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=6)
 
-### İçindekiler
+### Contents
 
 **Loading Dataset**
 
@@ -91,11 +91,11 @@
 
 **Bidirectional Long-Short Term Memory (Bidirectional LSTM)**
 
-## 6. Input Data Pipelines - TensorFlow Essentials #4 (Data Okuma Şekilleri)
+## 6. Input Data Pipelines - TensorFlow Essentials #4 (Data Reading Ways)
 
 **Video:** [Input Data Pipelines - TensorFlow Essentials #4](https://www.youtube.com/watch?v=f6XVfgJTbp4&list=PLIUOU7oqGTLh6hTOjTbpkEOY-N4Kizpp4&index=4) 
 
-### İçindekiler
+### Contents
 
 **Reading the Data from Memory**
 *   As List
@@ -110,11 +110,11 @@
 
 **Video:** [TensorFlow Tutorial 7 - More in Depth Example on Functional API](https://www.youtube.com/watch?v=gRRGr_tJnAA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=7)
 
-### İçindekiler
+### Contents
 
 **Loading Dataset**
 
 **Preprocessing Dataset**
 
 **Creating Convolutional Neural Network**
-* Functional API kullanarak modeli oluşturduk. Birden fazla outputu olduğu için burada functional api kullanmak daha mantıklıydı.
+* We created the model using the Functional API. It was more logical to use the functional api here as it has multiple outputs.
