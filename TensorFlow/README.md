@@ -118,3 +118,17 @@
 
 **Creating Convolutional Neural Network**
 * We created the model using the Functional API. It was more logical to use the functional api here as it has multiple outputs.
+
+## 8. TensorFlow Tutorial 8 - Model Subclassing with Keras
+
+**Video**: [TensorFlow Tutorial 8 - Model Subclassing with Keras](https://www.youtube.com/watch?v=WcZ_1IAH_nM&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=8)
+
+### Contents
+
+**Loading Dataset**
+
+**Preprocessing Dataset**
+
+**Defining CNNBlock(layers.Layer) Class for Creating Convolutional Neural Network**
+
+**Defining ResBlock(layers.Layer) and ResNet_Like(keras.Model) Class for Creating Neural Network Similar to Residual Neural Network (ResNet)**
