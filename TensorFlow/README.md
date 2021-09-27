@@ -137,7 +137,7 @@
 
 **Video**: [TensorFlow Tutorial 9 - Custom Layers](https://www.youtube.com/watch?v=cKMJDkWSDnY&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=9)
 
-### İçindekiler
+### Contents
 
 **Loading Dataset**
 
