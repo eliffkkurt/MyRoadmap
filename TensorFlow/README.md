@@ -132,3 +132,25 @@
 **Defining CNNBlock(layers.Layer) Class for Creating Convolutional Neural Network**
 
 **Defining ResBlock(layers.Layer) and ResNet_Like(keras.Model) Class for Creating Neural Network Similar to Residual Neural Network (ResNet)**
+
+## 9. TensorFlow Tutorial 9 - Custom Layers
+
+**Video**: [TensorFlow Tutorial 9 - Custom Layers](https://www.youtube.com/watch?v=cKMJDkWSDnY&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=9)
+
+### İçindekiler
+
+**Loading Dataset**
+
+**Preprocessing Dataset**
+
+**Creating a Basic Neural Network**
+
+**Creating Custom Layers - 1**
+* We created a class for our layers by initializing weight and bias ourselves and integrated it into our model.
+
+**Creating Custom Layers - 2**
+* When we were going to integrate the class we created into our model, we had to give the input size ourselves. In order not to do this, we added a function called *build()* to our class.
+
+**Creating Custom Layers - 3**
+* We created also a class for running the relu function.
+
