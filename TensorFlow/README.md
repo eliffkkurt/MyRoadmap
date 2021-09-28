@@ -154,3 +154,26 @@
 **Creating Custom Layers - 3**
 * We created also a class for running the relu function.
 
+## 10. TensorFlow Tutorial 10 - Saving and Loading Models
+
+**Video**: [TensorFlow Tutorial 10 - Saving and Loading Models](https://www.youtube.com/watch?v=idus3KO6Wic&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=10)
+
+### Contents
+
+**Loading Dataset**
+
+**Preprocessing Dataset**
+
+**Creating Models**
+* Using Sequential API
+* Using Functional API
+* Using Subclassing
+
+**Save and Load Model Weights**
+* Save Model Weights
+* Load Model Weights 
+
+**Save and Load Entire Model (Serializing Model)**
+* Save Entire Model
+* Load Entire Model
+
