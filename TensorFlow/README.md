@@ -177,3 +177,30 @@
 * Save Entire Model
 * Load Entire Model
 
+## 11. TensorFlow Tutorial 11 - Transfer Learning, Fine Tuning and TensorFlow Hub
+
+**Video**: [TensorFlow Tutorial 11 - Transfer Learning, Fine Tuning and TensorFlow Hub](https://www.youtube.com/watch?v=WJZoywOG1cs&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=11)
+
+### Contents
+
+**Pretrained Model**
+* Loading and preprocessing mnist dataset
+* Loading pretrained model
+* Creating our model
+* Training configuration with model.compile()
+* Training with model.fit()
+
+**Pretrained Keras Model**
+* Creating our own dataset
+* Loading pretrained model
+* Creating our model
+* Training configuration with model.compile()
+* Training with model.fit()
+
+**Pretrained Hub Model**
+* Creating our own dataset
+* Loading pretrained model
+* Creating our model
+* Training configuration with model.compile()
+* Training with model.fit()
+
