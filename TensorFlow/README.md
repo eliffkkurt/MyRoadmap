@@ -210,7 +210,7 @@
 
 ### Contents
 
-**Mnist Dataset**
+**MNIST Dataset**
 * Loading Dataset
 * Showing Examples From Dataset
 * Preprocessing Dataset
