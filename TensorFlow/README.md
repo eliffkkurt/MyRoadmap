@@ -204,7 +204,7 @@
 * Training configuration with model.compile()
 * Training with model.fit()
 
-## TensorFlow Tutorial 12 - TensorFlow Datasets
+## 12. TensorFlow Tutorial 12 - TensorFlow Datasets
 
 **Video**: [TensorFlow Tutorial 12 - TensorFlow Datasets](https://www.youtube.com/watch?v=YrMy-BAqk8k&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=12)
 
