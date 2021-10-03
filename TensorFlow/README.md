@@ -262,3 +262,22 @@
 * Writing Custom Callbacks - 1
 * Writing Custom Callbacks - 2
 
+## 15. TensorFlow Tutorial 15 - Customizing Model.Fit
+
+**Video**: [TensorFlow Tutorial 15 - Customizing Model.Fit](https://www.youtube.com/watch?v=S6tLSI8bjGs&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=15)
+
+### Contents
+
+**Loading and Preprocessing Dataset**
+
+**Creating Model**
+
+**Creating Custom Model (Created Train Step)**
+
+**Creating Custom Compiler - 1**
+
+**Creating Custom Compiler -2 (Added custom metrics)**
+
+**Creating Custom Model (Added Test Step)**
+
+
