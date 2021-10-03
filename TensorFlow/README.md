@@ -1,6 +1,6 @@
 **Resources**
-* Youtube - Aladdin Persson Channel- TensorFlow 2.0 Beginner Tutorials
-* Youtube - James Briggs Channel - TensorFlow Essentials
+* Youtube - Aladdin Persson - TensorFlow 2.0 Beginner Tutorials
+* Youtube - James Briggs - TensorFlow Essentials
 
 
 ## 1. TensorFlow Tutorial 2 - Tensor Basics 
