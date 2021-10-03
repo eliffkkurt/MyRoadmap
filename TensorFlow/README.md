@@ -221,3 +221,21 @@
 * Showing Example From Dataset
 * Preprocessing Dataset (Tokenizing the Sentences, Numericalizing the Words in the Vocabulary)
 * Creating Our model
+
+## 13. TensorFlow Tutorial 13 - Data Augmentation
+
+**Video**: [TensorFlow Tutorial 13 - Data Augmentation](https://www.youtube.com/watch?v=8wwfVV7ixyY&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=13)
+
+### Contents
+
+**Loading Dataset**
+
+**Processing the Dataset and Creating Model**
+
+*Normalizing*
+
+*Data Augmentation*
+
+* First Way: Applying it as a function to the train set
+
+* Second Way: Write inside the model
