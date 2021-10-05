@@ -280,4 +280,14 @@
 
 **Creating Custom Model (Added Test Step)**
 
+## 16. TensorFlow Tutorial 16 - Custom Training Loops
 
+**Video**: [TensorFlow Tutorial 16 - Custom Training Loops](https://www.youtube.com/watch?v=_u7AVsxANes&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=16)
+
+## Contents
+
+**Loading, Preprocessing Dataset and Creating Model**
+
+**Creating Training Loop (model.fit)**
+
+**Creating Test Loop (model.evaluate)**
