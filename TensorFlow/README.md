@@ -291,3 +291,21 @@
 **Creating Training Loop (model.fit)**
 
 **Creating Test Loop (model.evaluate)**
+
+-----
+
+## 18. TensorFlow Tutorial 18 - Custom Dataset for Images
+
+**Video**:[TensorFlow Tutorial 18 - Custom Dataset for Images](https://www.youtube.com/watch?v=q7ZuZ8ZOErE&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=18)
+
+## Contents
+
+**Structured in Subfolders**
+
+* Method 1 - Using dataset_from_directory 
+* Method 2 - Using ImageDataGenerator and flow_from_directory
+
+**Folder with CSV File**
+
+**All in one folder**
+
