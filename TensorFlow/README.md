@@ -309,3 +309,23 @@
 
 **All in one folder**
 
+## 19. TensorFlow Tutorial 19 - Custom Dataset for Text with TextLineDataset
+
+**Video**: [TensorFlow Tutorial 19 - Custom Dataset for Text with TextLineDataset](https://www.youtube.com/watch?v=NoKvCREx36Q&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=19)
+
+## Contents
+
+**1. Examining Data**
+ 
+**2. Loading Dataset**
+ 
+* Applying filter() function to seperate train and test set
+ 
+**3. Preprocessing Dataset**
+ 
+* Create Vocabulary (Defining Tokenizer, Building Vocabulary, Saving Vocabulary in Computer and Loading it)
+* Numericalize the Vocabulary (Defining Encoder Functions, Applying Encoder Functions to Dataset) 
+ 
+**4. Creating Model**
+ 
+**5. Working with Multiple Dataset**
