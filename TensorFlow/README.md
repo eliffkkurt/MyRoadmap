@@ -329,3 +329,22 @@
 **4. Creating Model**
  
 **5. Working with Multiple Dataset**
+
+## 20. TensorFlow Tutorial 20 - Classifying Skin Cancer [BEGINNER PROJECT EXAMPLE] 
+
+**Video**: [TensorFlow Tutorial 20 - Classifying Skin Cancer [BEGINNER PROJECT EXAMPLE]](https://www.youtube.com/watch?v=ea5Z1smiR3U&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=20)
+
+**Download the Dataset and Organizing The Folders**
+
+**Creating train, validation, test sets**
+
+**Creating model using NasNet**
+
+**Loading dataset with Image Data Generator**
+
+**Training dataset**
+
+**Training data with different metrics**
+
+**Plotting auc curve**
+
