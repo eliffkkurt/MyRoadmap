@@ -242,7 +242,7 @@
 
 ## 14. TensorFlow Tutorial 14 - Callbacks with Keras and Writing Custom Callbacks
 
-**Video**: **Video**: [TensorFlow Tutorial 14 - Callbacks with Keras and Writing Custom Callbacks](https://www.youtube.com/watch?v=WUzLJZCKNu4&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=14)
+**Video**: [TensorFlow Tutorial 14 - Callbacks with Keras and Writing Custom Callbacks](https://www.youtube.com/watch?v=WUzLJZCKNu4&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=14)
 
 ### Contents
 
