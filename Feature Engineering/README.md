@@ -37,3 +37,31 @@
 - 3.1. Silme Yöntemi
 - 3.2. Ortalama Yöntemi
 - 3.3. Baskılama Yöntemi
+
+## Çok Değişkenli Aykırı Gözlem Analizi
+
+**Video**: Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning (Bölüm 8 - Veri Ön İşleme - 236, 237)
+
+### İçindekiler
+
+**Giriş**
+
+- Neden veri setine çok değişkenli olarak bakmamız lazım?
+
+- Local Outlier Factor Nedir?
+
+**1. Loading the Dataset**
+
+**2. Aykırı Değerlerin Yakalanması**
+
+Local Outlier Factor yöntemiyle aykırı değerleri yakalıyoruz.
+- Eşik değeri buluyoruz.
+- Aykırı değerleri buluyoruz.
+
+**3. Aykırı Değer Problemini Çözmek**
+- Silme Yöntemi
+- Ortalama Yöntemi
+- Baskılama Yöntemi
+    - Aykırılar dataframe'ini indekssiz bir arraye çeviriyoruz.
+    - baski_deger dataframe'ini de indekssiz bir arraye çeviriyoruz ve res'in değerlerini bunun değerleriyle değiştiriyoruz.
+    - Yeni aykırı değerleri dataframe'imize dahil ediyoruz.
