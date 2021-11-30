@@ -16,6 +16,4 @@
 ### 4. p-values (statquest)
 - [Statquest - p-values: What they are and how to interpret them](https://www.youtube.com/watch?v=vemZtEM63GY&t=273s)
 
-### 5. Lineer Regresyon Yaptıktan Sonra Modele Sorulması Gereken Sorular
-- Advertising verisiyle kurulan modele sorulan sorular ve cevapları (An Introduction to Statistical Learning-Chapter 3)
-- Residual Standart Error, R^2, t-test, F-statistic, Güven Aralıkları, Tahmin Aralıkları, VIF, polynomial regression konularını içeriyor.  
+
