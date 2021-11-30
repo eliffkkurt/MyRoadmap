@@ -4,21 +4,13 @@
 * Youtube - codebasics - Feature Engineering Tutorial Python 
 * Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning
 
-## Outlier Detection and Removal Using Percentile
+## Aykırı Gözlem (Vahit Keskin)
 
-**Video**: [Outlier detection and removal using percentile | Feature Engineering tutorial python # 2](https://www.youtube.com/watch?v=7sJaRHF03K8)
+*Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning (Bölüm 8 - Veri Ön İşleme - 232)*
 
-### İçindekiler
+## Outlier Tespiti İçin 4 Farklı Yöntem (Vahit Keskin)
 
-**Percentile Nedir?**
-
-**1. Outlier Değerleri Tespit Etmek**
-* Maximum thresholdu tanımlamak
-* Minimum thresholdu tanımlamak
-
-**2. Outlier Değerleri Kaldırmak**
-
-**3. Mangalore Property Prices Dataset üzerinden Outlier Değerlerinin Tespiti ve Kaldırılması**
+*Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning (Bölüm 8 - Veri Ön İşleme - 233)*
 
 ## Tek Değişkenli Aykırı Gözlem Analizi
 
@@ -65,3 +57,19 @@ Local Outlier Factor yöntemiyle aykırı değerleri yakalıyoruz.
     - Aykırılar dataframe'ini indekssiz bir arraye çeviriyoruz.
     - baski_deger dataframe'ini de indekssiz bir arraye çeviriyoruz ve res'in değerlerini bunun değerleriyle değiştiriyoruz.
     - Yeni aykırı değerleri dataframe'imize dahil ediyoruz.
+
+## Outlier Detection and Removal Using Percentile
+
+**Video**: [Outlier detection and removal using percentile | Feature Engineering tutorial python # 2](https://www.youtube.com/watch?v=7sJaRHF03K8)
+
+### İçindekiler
+
+**Percentile Nedir?**
+
+**1. Outlier Değerleri Tespit Etmek**
+* Maximum thresholdu tanımlamak
+* Minimum thresholdu tanımlamak
+
+**2. Outlier Değerleri Kaldırmak**
+
+**3. Mangalore Property Prices Dataset üzerinden Outlier Değerlerinin Tespiti ve Kaldırılması**
