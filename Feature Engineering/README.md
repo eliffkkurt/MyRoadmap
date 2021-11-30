@@ -1,20 +1,20 @@
 
 # Feature Engineering
-**Resources**
+**Kaynaklar**
 * Youtube - codebasics - Feature Engineering Tutorial Python 
 
 ## Outlier Detection and Removal Using Percentile
 
 **Video**: [Outlier detection and removal using percentile | Feature Engineering tutorial python # 2](https://www.youtube.com/watch?v=7sJaRHF03K8)
 
-### Contents
+### İçindekiler
 
-**What is Percentile?**
+**Percentile Nedir?**
 
-**1. Detection of Outlier Values**
-* Specify Maximum Threshold
-* Specify Minimum Threshold
+**1. Outlier Değerleri Tespit Etmek**
+* Maximum thresholdu tanımlamak
+* Minimum thresholdu tanımlamak
 
-**2. Removing Outlier Values**
+**2. Outlier Değerleri Kaldırmak**
 
-**3. Detection and Removal of Outlier Values on Mangalore Property Prices Dataset**
+**3. Mangalore Property Prices Dataset üzerinden Outlier Değerlerinin Tespiti ve Kaldırılması**
