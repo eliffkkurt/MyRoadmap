@@ -1,5 +1,9 @@
+## Basit Doğrusal Regresyon - Teori
+**Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning**
 
-## Simple Linear Regression
+*Bölüm 10 - Makine Öğrenmesi II - Doğrusal Regresyon ve Kuzenleri (260. video) - Vahit Keskin anlattı.*
+
+## Basit Doğrusal Regresyon - Model
 **Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning**
 
 *Bölüm 10 - Makine Öğrenmesi II - Doğrusal Regresyon ve Kuzenleri (258-262. videolar) - Vahit Keskin anlattı.*
