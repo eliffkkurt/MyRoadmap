@@ -5,7 +5,9 @@
 ### 1. Simple Linear Regression
 * Simple Linear Regression - Udemy (Vahit Keskin)
 
-### 2. The Importance of Residuals in Machine Learning - Udemy (Vahit Keskin)
+### 2. The Importance of Residuals in Machine Learning - Udemy (Vahit Keskin) 
+
+### 3. Questions to Ask the Model After Performing Linear Regression (Introduction to Statistical Learning)
 
 ## Classification Models
 ### 1. k-Nearest Neighbors Classifier
