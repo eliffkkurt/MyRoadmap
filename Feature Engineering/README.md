@@ -1,5 +1,5 @@
 
-# Feature Engineering
+# Outlier Detection and Removal
 **Kaynaklar**
 * Youtube - codebasics - Feature Engineering Tutorial Python 
 * Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning
