@@ -17,3 +17,12 @@
 
 #### Develop k-Nearest Neighbors Classifier with Libraries
 * I implemented k-Nearest Neighbors Classification Algorithm in python with `KNeighborsClassifier` library using [diabetes.csv](https://www.kaggle.com/saurabh00007/diabetescsv) dataset.
+
+### 2. Logistic Regression 
+
+* Odds and Log(Odds)- Statquest
+* Odds Ratios and Log(Odds Ratios) - Statquest
+* Coefficients - Statquest
+* Maximum Likelihood - Statquest
+* Bayes' Theorem with Lego - Count Bayesie Blog
+* Logistic Regression from Bayes' Theorem - Count Bayesie Blog
