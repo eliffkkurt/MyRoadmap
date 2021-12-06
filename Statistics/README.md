@@ -1,5 +1,8 @@
 
 ## Statistics
+* [Maksimum Olabilirlik Çıkarımı(Maximum Likelihood Estimation)](https://medium.com/rick-sanchez-cs/maksimum-olabilirlik-%C3%A7%C4%B1kar%C4%B1m%C4%B1-maximum-likelihood-estimation-1b9d7312d1bd)
+
+
 
 ### 1. Standart Hata
 
