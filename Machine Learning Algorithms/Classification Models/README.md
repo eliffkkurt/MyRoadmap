@@ -1,3 +1,56 @@
+# Classification Models
+* [The Math Behind Bayesian Classifiers Clearly Explained!](https://www.youtube.com/watch?v=lFJbZ6LVxN8)
+
+## Sınıflandırma Modelleri - Giriş
+**Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning**
+
+*Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (335. Video) - Vahit Keskin anlattı.* 
+
+____
+## 1. Logistic Regression
+### Lojistik Regresyon - Teori
+* [Odds and Log(Odds)- Statquest](https://www.youtube.com/watch?v=ARfXDSkQf1Y)
+* [Odds Ratios and Log(Odds Ratios) - Statquest](https://www.youtube.com/watch?v=8nm0G-1uJzA&t=38s)
+* [Logistic Regression Details Pt1: Coefficients - Statquest](https://www.youtube.com/watch?v=vN5cNN2-HWE)
+* [Probability is not Likelihood - Statquest](https://www.youtube.com/watch?v=pYxNSUDSFH4)
+* [Maximum Likelihood - Statquest](https://www.youtube.com/watch?v=XepXtl9YKwc)
+* [Maksimum Olabilirlik Çıkarımı (Maximum Likelihood Estimation)](https://medium.com/rick-sanchez-cs/maksimum-olabilirlik-%C3%A7%C4%B1kar%C4%B1m%C4%B1-maximum-likelihood-estimation-1b9d7312d1bd)
+* [Logistic Regression Details Pt 2: Maximum Likelihood - Statquest](https://www.youtube.com/watch?v=BfKanl1aSG0)
+* [Bayes' Theorem with Lego - Count Bayesie Blog](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
+* [Logistic Regression from Bayes' Theorem - Count Bayesie Blog](https://www.countbayesie.com/blog/2019/6/12/logistic-regression-from-bayes-theorem)
+* Lojistik Regresyon - Teori (Udemy-Vahit Keskin-337. video)
 
 
-[The Math Behind Bayesian Classifiers Clearly Explained!](https://www.youtube.com/watch?v=lFJbZ6LVxN8)
+### Logistic Regression - Model
+**Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning**
+
+*Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (338-339. videolar) - Vahit Keskin anlattı.*
+
+____
+## 2. Naive Bayes Classifier
+
+### Naive Bayes Classifier - Teori
+**Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning**
+
+*Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (340. video) - Vahit Keskin anlattı.*
+
+### Naive Bayes Classifier - Model
+**Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning**
+
+*Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (341. video) - Vahit Keskin anlattı.*
+____
+## 3. K-Nearest Neighbors Classifier
+
+### K-Nearest Neighbors Classifier - Teori
+**Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning**
+
+*Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (342. video) - Vahit Keskin anlattı.*
+
+### K-Nearest Neighbors Classifier - Model
+
+* Develop k-Nearest Neighbors Classifier with Libraries
+
+*Udemy - Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (343-344. video) - Vahit Keskin anlattı.*
+* Develop k-Nearest Neighbors Classifier in Python From Scratch
+
+
