@@ -18,4 +18,4 @@ ____
 
 *Bölüm 11 - Makine Öğrenmesi III – Doğrusal Olmayan Regresyon Modelleri (291-294. videolar) - Vahit Keskin anlattı.* 
 
-
+____
