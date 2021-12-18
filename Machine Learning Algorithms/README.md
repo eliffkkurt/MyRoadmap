@@ -23,7 +23,12 @@ ____
 
 
 ## Nonlinear Regression Models
+**Doğrusal Olmayan Regresyon Modelleri - Giriş**
+
+____
 ### 1. K-nearest Neighbours Regression
+* K-En Yakın Komşu (KNN) - Teori
+* K-nearest Neighbours Regression - Udemy (Vahit Keskin)
 
 ## Classification Models
 
@@ -37,7 +42,7 @@ ____
 * Bayes' Theorem with Lego - Count Bayesie Blog
 * Logistic Regression from Bayes' Theorem - Count Bayesie Blog
 
-### 2. k-Nearest Neighbors Classifier
+### 2. K-Nearest Neighbors Classifier
 
 #### Develop k-Nearest Neighbors Classifier in Python From Scratch
 * I implemented k-Nearest Neighbors Classification Algorithm in python from scratch using [iris.csv](https://www.kaggle.com/uciml/iris) dataset.
