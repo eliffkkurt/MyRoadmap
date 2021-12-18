@@ -9,6 +9,8 @@
 
 ____
 
+**Doğrusal Regresyon ve Kuzenleri - Giriş**
+
 **The Importance of Residuals in Machine Learning - Udemy (Vahit Keskin)** 
 
 **Questions to Ask the Model After Performing Linear Regression (Introduction to Statistical Learning)**
