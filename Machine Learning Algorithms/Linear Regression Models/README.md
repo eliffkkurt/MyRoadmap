@@ -17,6 +17,7 @@ ____
 
 *Bölüm 10 - Makine Öğrenmesi II - Doğrusal Regresyon ve Kuzenleri (258-262. videolar) - Vahit Keskin anlattı.*
 
+____
 ## 2. Multiple Linear Regression
 ### Çoklu Doğrusal Regresyon - Teori
 **Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning**
@@ -35,6 +36,7 @@ ____
 
 *Bölüm 10 - Makine Öğrenmesi II - Doğrusal Regresyon ve Kuzenleri (263. video) - Vahit Keskin anlattı.*
 
+____
 ## Questions to Ask the Model After Performing Linear Regression 
 
 **An Introduction to Statistical Learning**
