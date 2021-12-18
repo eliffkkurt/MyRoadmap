@@ -1,10 +1,9 @@
 
 # Machine Learning Algorithms
-
+____
 ## Linear Regression Models
 **Doğrusal Regresyon ve Kuzenleri - Giriş**
 
-____
 ### 1. Simple Linear Regression
 * Basit Doğrusal Regresyon-Teori
 * Simple Linear Regression - Udemy (Vahit Keskin)
@@ -13,22 +12,21 @@ ____
 * Çoklu Doğrusal Regresyon-Teori
 * Multiple Linear Regression - Udemy (Vahit Keskin)
 
-____
-
 
 **The Importance of Residuals in Machine Learning - Udemy (Vahit Keskin)** 
 
 **Questions to Ask the Model After Performing Linear Regression (Introduction to Statistical Learning)**
 
-
+____
 
 ## Nonlinear Regression Models
 **Doğrusal Olmayan Regresyon Modelleri - Giriş**
 
-____
 ### 1. K-nearest Neighbours Regression
 * K-En Yakın Komşu (KNN) - Teori
 * K-nearest Neighbours Regression - Udemy (Vahit Keskin)
+
+____
 
 ## Classification Models
 
@@ -51,3 +49,5 @@ ____
 * I implemented k-Nearest Neighbors Classification Algorithm in python with `KNeighborsClassifier` library using [diabetes.csv](https://www.kaggle.com/saurabh00007/diabetescsv) dataset.
 
 ### 3. Naive Bayes Classifier
+
+____
