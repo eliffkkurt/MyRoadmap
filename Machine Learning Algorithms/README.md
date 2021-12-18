@@ -2,14 +2,19 @@
 # Machine Learning Algorithms
 
 ## Linear Regression Models
+**Doğrusal Regresyon ve Kuzenleri - Giriş**
+
+____
 ### 1. Simple Linear Regression
+* Basit Doğrusal Regresyon-Teori
 * Simple Linear Regression - Udemy (Vahit Keskin)
 
 ### 2. Multiple Linear Regression
+* Çoklu Doğrusal Regresyon-Teori
+* Multiple Linear Regression - Udemy (Vahit Keskin)
 
 ____
 
-**Doğrusal Regresyon ve Kuzenleri - Giriş**
 
 **The Importance of Residuals in Machine Learning - Udemy (Vahit Keskin)** 
 
