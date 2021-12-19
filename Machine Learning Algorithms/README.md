@@ -58,15 +58,10 @@ ____
 
 ### 2. Naive Bayes Classifier
 
-#### Naive Bayes Classifier - Teori
+#### Naive Bayes Classifier - Teori/Model
 **Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning**
 
-*Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (340. video) - Vahit Keskin anlattı.*
-
-#### Naive Bayes Classifier - Model
-**Udemy - (50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning**
-
-*Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (341. video) - Vahit Keskin anlattı.*
+*Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (340-341. videolar) - Vahit Keskin anlattı.*
 
 ### 3. K-Nearest Neighbors Classifier
 
