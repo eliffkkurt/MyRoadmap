@@ -43,7 +43,7 @@ ____
 
 ### K-Nearest Neighbors Classifier - Model
 
-* Develop k-Nearest Neighbors Classifier with Libraries
+* K-Nearest Neighbors Classifier - Udemy (Vahit Keskin)
 
 *Udemy - Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (343-344. video) - Vahit Keskin anlattı.*
 * Develop k-Nearest Neighbors Classifier in Python From Scratch
