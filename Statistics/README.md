@@ -21,3 +21,6 @@
 - [Statquest - How to calculate p-values](https://www.youtube.com/watch?v=JQc3yx0-Q9E)
 
 
+
+
+[Bayes Error Rate](https://medium.com/@hipstering/bayes-error-rate-1cd1f81c16ec)
