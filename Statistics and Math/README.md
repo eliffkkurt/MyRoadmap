@@ -15,9 +15,10 @@
   - [Kovaryans (Statquest)](https://www.youtube.com/watch?v=qtaqvPAeEJY&t=1s)
   - [Korelasyon (Statquest)](https://www.youtube.com/watch?v=xZ_z8KWkhXE&t=960s)
 
+_____
+
 - Betimsel İstatistikler Uygulama (Udemy-Vahit Keskin)
 - [Standard Error (Statquest)](https://www.youtube.com/watch?v=XNgt7F6FqDU)
-
 
 ## Maximum Likelihood
 - [Probability & Likelihood (Statquest)](https://www.youtube.com/watch?v=pYxNSUDSFH4)
