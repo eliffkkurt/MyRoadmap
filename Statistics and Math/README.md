@@ -17,9 +17,10 @@
 
 - Betimsel İstatistikler Uygulama (Udemy-Vahit Keskin)
 - [Standard Error (Statquest)](https://www.youtube.com/watch?v=XNgt7F6FqDU)
-- [Probability & Likelihood (Statquest)](https://www.youtube.com/watch?v=pYxNSUDSFH4)
+
 
 ## Maximum Likelihood
+- [Probability & Likelihood (Statquest)](https://www.youtube.com/watch?v=pYxNSUDSFH4)
 - [Maximum Likelihood (Statquest)](https://www.youtube.com/watch?v=XepXtl9YKwc)
 - [Maksimum Olabilirlik Çıkarımı (Maximum Likelihood Estimation)](https://medium.com/rick-sanchez-cs/maksimum-olabilirlik-%C3%A7%C4%B1kar%C4%B1m%C4%B1-maximum-likelihood-estimation-1b9d7312d1bd)
 
