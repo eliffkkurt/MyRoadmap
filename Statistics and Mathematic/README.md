@@ -1,5 +1,5 @@
 
-
+# STATISTICS AND MATHEMATIC
 
 - Veri Bilimi İçin İstatistik Giriş (Udemy-Vahit Keskin)
 
