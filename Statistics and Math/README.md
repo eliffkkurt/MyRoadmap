@@ -68,7 +68,7 @@
   - Normal Dağılım (Udemy-Vahit Keskin)
   - Normal Dağılım Uygulama (Udemy-Vahit Keskin)
 
-## Hipotez Testi ve Değerlendirilmesi
+## Hipotez Testi ve p-value
 - Hipotez Testi Nedir (Udemy-Vahit Keskin)
 - Hipotezler ve Türleri (Udemy-Vahit Keskin)
 - [Hipotez Testi ve Null Hipotez (Statquest)](https://www.youtube.com/watch?v=0oc49DyA3hU&t=8s)
