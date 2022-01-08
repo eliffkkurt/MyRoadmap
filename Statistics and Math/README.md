@@ -2,15 +2,15 @@
 
 - Veri Bilimi İçin İstatistik Giriş (Udemy-Vahit Keskin)
 
-- #### Örnek Teorisi
+## Örnek Teorisi
   - Örnek Teorisi (Udemy-Vahit Keskin)
   - Örnek Teorisi Uygulama (Udemy-Vahit Keskin)
 
-- #### Merkezi Limit Teoremi
+## Merkezi Limit Teoremi
   - Merkezi Limit Teoremi (Udemy-Vahit Keskin)
   - [Merkezi Limit Teoremi (Youtube-Khan Academy Türkçe)](https://www.youtube.com/watch?v=pXA9GFOLVpY&t=2s)
 
-- #### Kovaryans ve Korelasyon
+## Kovaryans ve Korelasyon
   - Kovaryans ve Korelasyon (Udemy-Vahit Keskin)
   - [Kovaryans (Statquest)](https://www.youtube.com/watch?v=qtaqvPAeEJY&t=1s)
   - [Korelasyon (Statquest)](https://www.youtube.com/watch?v=xZ_z8KWkhXE&t=960s)
