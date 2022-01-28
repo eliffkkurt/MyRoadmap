@@ -4,6 +4,8 @@
 - Python Basics
 - Data Types
 - Args and Kwargs
+- Object Oriented Programming in Python
+- Decorators
 
 ## Python Basics
 
