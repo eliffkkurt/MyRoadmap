@@ -103,16 +103,16 @@
 ## Pandas
 
 **1) Pandas Basics**
-- *CSV Dosyası Okuma*
+- **CSV Dosyası Okuma**
 
   `df = pd.read_csv("data/survey_results_public.csv")`
 
-- *Dataframe'de İlk ve Son Satırlara Bakma*
+- **Dataframe'de İlk ve Son Satırlara Bakma**
   - `df.head()` 
 
   - `df.tail()`
 
-- *Dataframe'deki Tüm Satır ve Sütunları Görüntüleme*
+- **Dataframe'deki Tüm Satır ve Sütunları Görüntüleme**
 
   - `pd.set_option("display.max_columns",df.shape[1])` ile tüm sütunları görebiliyoruz.
 
@@ -122,21 +122,21 @@
 
 **2) Dataframe - Series**
 
-- *Dictionary'den Dataframe Oluşturmak*
+- **Dictionary'den Dataframe Oluşturmak**
 
     `df = pd.DataFrame(people)`
     
-- *Dataframe'in Satır Belirtmeden Sütun Bilgisine Erişmek*
+- **Dataframe'in Satır Belirtmeden Sütun Bilgisine Erişmek**
 
-   **iloc, loc** belirtmeden iki parantezle satırların ilgili sütun bilgilerini getirmiş oluyoruz. 
+   *iloc*, *loc* belirtmeden iki parantezle satırların ilgili sütun bilgilerini getirmiş oluyoruz. 
 
   - `df[["name","last_name"]]` ile name ve last_name sütunundaki tüm satırların bilgisine dataframe olarak erişiyoruz.
     
-- *Dataframe'in Satırlarına Erişmek*
+- **Dataframe'in Satırlarına Erişmek**
 
   İlki satır, ikincisi sütun.
 
-  **iloc**
+  *iloc*
 
   - `df.iloc[0]["name"]` ile 0. satırdaki name sütunundaki hücreyi 'Finley' şeklinde bilgi olarak alıyoruz.
 
@@ -146,7 +146,7 @@
 
   - `df.iloc[0:3]` ile 0. satırdan başlayıp 2. satıra kadarki tüm sütun bilgilerini dataframe olarak alıyoruz.
 
-  **loc**
+  *loc*
 
   Indekslerin etiketlerine göre öğelere erişiyoruz.
 
@@ -154,9 +154,9 @@
   
 - *Dataframe'in Belirli Satırlarında Belirli Sütunlarına Erişmek*
 
-  *İlki satır ikincisi sütun*
+  **İlki satır ikincisi sütun**
 
-  **iloc**
+  *iloc*
 
   - `df.iloc[[0,1],1]` ile 0 ve 1. satırdaki 1. sütundaki bilgileri series olarak (indeks bilgisiyle) alıyoruz. `df.iloc[[0,1],1][0]` şeklinde belirttiğimizde ise indeks bilgisi olmadan içeriği alabiliyoruz.
 
@@ -175,7 +175,7 @@
 
   - İki indeks arasındaki tüm satırlara ve sütunlara erişmek istiyorsak `df.iloc[0:3,0:3]` şeklinde parantezden kurtarıyoruz iki tarafı da.
 
-  **loc**
+  *loc*
 
   Indekslerin etiketlerine göre öğelere erişiyoruz.
 
