@@ -100,6 +100,96 @@
 - *Setler'de Küme İşlemleri*
 
 
+## Pandas
+
+**1) Pandas Basics**
+- *CSV Dosyası Okuma*
+
+  `df = pd.read_csv("data/survey_results_public.csv")`
+
+- *Dataframe'de İlk ve Son Satırlara Bakma*
+  - `df.head()` 
+
+  - `df.tail()`
+
+- *Dataframe'deki Tüm Satır ve Sütunları Görüntüleme*
+
+  - `pd.set_option("display.max_columns",df.shape[1])` ile tüm sütunları görebiliyoruz.
+
+  - `pd.set_option("display.max_rows",schema_df.shape[0])` ile tüm satırları görebiliyoruz.
+
+  - `pd.reset_option("display.max_columns")` ve `pd.reset_option("display.max_rows")` ile resetleme işlemi yapıyoruz.
+
+**2) Dataframe - Series**
+
+- *Dictionary'den Dataframe Oluşturmak*
+
+    `df = pd.DataFrame(people)`
+    
+- *Dataframe'in Satır Belirtmeden Sütun Bilgisine Erişmek*
+
+   **iloc, loc** belirtmeden iki parantezle satırların ilgili sütun bilgilerini getirmiş oluyoruz. 
+
+  - `df[["name","last_name"]]` ile name ve last_name sütunundaki tüm satırların bilgisine dataframe olarak erişiyoruz.
+    
+- *Dataframe'in Satırlarına Erişmek*
+
+  İlki satır, ikincisi sütun.
+
+  **iloc**
+
+  - `df.iloc[0]["name"]` ile 0. satırdaki name sütunundaki hücreyi 'Finley' şeklinde bilgi olarak alıyoruz.
+
+  - `df.iloc[[0]]` ile 0. satırdaki tüm sütunları dataframe olarak alıyoruz.
+
+  - `df.iloc[[0,1]]` ile 0 ve 1. satırdaki tüm sütunları dataframe olarak alıyoruz.
+
+  - `df.iloc[0:3]` ile 0. satırdan başlayıp 2. satıra kadarki tüm sütun bilgilerini dataframe olarak alıyoruz.
+
+  **loc**
+
+  Indekslerin etiketlerine göre öğelere erişiyoruz.
+
+  - `df.loc[[0,2]]` ile 0 ve 2 etiketli satırlarındaki tüm sütunları dataframe olarak alıyoruz.
+  
+- *Dataframe'in Belirli Satırlarında Belirli Sütunlarına Erişmek*
+
+  *İlki satır ikincisi sütun*
+
+  **iloc**
+
+  - `df.iloc[[0,1],1]` ile 0 ve 1. satırdaki 1. sütundaki bilgileri series olarak (indeks bilgisiyle) alıyoruz. `df.iloc[[0,1],1][0]` şeklinde belirttiğimizde ise indeks bilgisi olmadan içeriği alabiliyoruz.
+
+
+  - Sütunu indeksle belirtmek yerine `df.iloc[[0,1]]["last_name"]` şeklinde direkt adını yazarak da series olarak alabiliriz.
+
+
+  - `df.iloc[[0,1],[0,2]]` şeklinde birden fazla sütun çekersek dataframe şeklinde almış oluruz.
+
+
+  - Satır aralığı belirtmek istiyorsak satır tarafını parantezden kurtarıp aralığı `df.iloc[0:2,[0,2]]` şeklinde iki noktayla belirtiyoruz.
+
+
+  - Sütun aralığı belirtmek istiyorsak sütun tarafını parantezden kurtarıyoruz, aralığı `df.iloc[[0,1],0:2]` şeklinde iki noktayla (:) belirtiyoruz.
+
+
+  - İki indeks arasındaki tüm satırlara ve sütunlara erişmek istiyorsak `df.iloc[0:3,0:3]` şeklinde parantezden kurtarıyoruz iki tarafı da.
+
+  **loc**
+
+  Indekslerin etiketlerine göre öğelere erişiyoruz.
+
+  - `df.loc[[0,2],0]` hata verir çünkü 0 olan bir sütun adı yok.
+
+  - `df.loc[[0,2],"name"]` şeklinde sütun adı yazmak gerekir.
+
+  iloc'tan farklı olarak; 
+
+  - `df.loc[0:2, "name"]` ifadesinde 2. indeksteki satır da dataframe'e dahil edilir.
+
+  - `df.loc[0:2, "name":"age"]` şeklinde sütunlar arasını kendi isimleriyle aralık vererek alabiliriz. Fakat `df.iloc[0:2, "name":"age"]` hata verecektir.
+
+
 ## Args and Kwargs
 
 **1) Unpacking**
