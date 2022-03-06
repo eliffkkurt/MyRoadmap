@@ -102,7 +102,8 @@
 
 ## Pandas
 
-**1) Pandas Basics**
+### 1) Pandas Basics
+
 - **CSV Dosyası Okuma**
 
   `df = pd.read_csv("data/survey_results_public.csv")`
@@ -120,7 +121,7 @@
 
   - `pd.reset_option("display.max_columns")` ve `pd.reset_option("display.max_rows")` ile resetleme işlemi yapıyoruz.
 
-**2) Dataframe - Series**
+### 2) Dataframe - Series
 
 - **Dictionary'den Dataframe Oluşturmak**
 
@@ -152,9 +153,9 @@
 
   - `df.loc[[0,2]]` ile 0 ve 2 etiketli satırlarındaki tüm sütunları dataframe olarak alıyoruz.
   
-- *Dataframe'in Belirli Satırlarında Belirli Sütunlarına Erişmek*
+- **Dataframe'in Belirli Satırlarında Belirli Sütunlarına Erişmek**
 
-  **İlki satır ikincisi sütun**
+  İlki satır ikincisi sütun
 
   *iloc*
 
