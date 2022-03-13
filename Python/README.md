@@ -183,6 +183,8 @@
   - `df.loc[[0,2],0]` hata verir çünkü 0 olan bir sütun adı yok.
 
   - `df.loc[[0,2],"name"]` şeklinde sütun adı yazmak gerekir.
+  
+  - `df.loc[0,"name"]` şeklinde yazdığımızda 'Finley' çıktısını alıyoruz. 
 
   iloc'tan farklı olarak; 
 
