@@ -99,7 +99,6 @@
 
 - *Setler'de Küme İşlemleri*
 
-
 ## Pandas
 
 ### 1) Pandas Basics
@@ -192,6 +191,40 @@
 
   - `df.loc[0:2, "name":"age"]` şeklinde sütunlar arasını kendi isimleriyle aralık vererek alabiliriz. Fakat `df.iloc[0:2, "name":"age"]` hata verecektir.
 
+## Regex
+**1) Raw String in Python `(r"..")`**
+
+**2) `re.compile(r"..")` ile Patterni Belirlemek**
+
+**3) Tek Bir Karakteri veya Karakter Dizisini Eşleştirme**
+
+**4) Rakamları Eşleştirmek `(r"\d")`**
+
+**5) `r"."` ile Herhangi Bir Karakteri Match Etmek**
+
+**6) `r"\."` Noktayı Match Etmek**
+
+**7) Belirli Karakterleri Match Etmek `r"[gtr]an"`**
+
+**8) Belirli Karakterleri Dışarıda Bırakmak `^hmf]on"`**
+
+**9) Karakter Aralıkları**
+
+**10) Tekrar Eden Karakterleri Eşleştirme `.{3,8}`**
+
+**11) Kleene Star, Kleene Plus**
+
+**12) İsteğe Bağlı Karakter Eklemek `r"errors?"`**
+
+**13) Boşluklar `r"\s"`**
+
+**14) Belirli Karakter(ler)le Başlaması `^` ve Bitmesi `$`**
+
+**15) Gruplar**
+
+**16) İçiçe Gruplar**
+
+**Exercises**
 
 ## Args and Kwargs
 
