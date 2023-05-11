@@ -79,7 +79,7 @@ ____
 
 ____
 
-## Unsupervised Learning Algorithms
+## Unsupervised Learning Models
 ### 1. K-Means Algorithm
 **K-Means Clustering in Python (Real Python)**
 
