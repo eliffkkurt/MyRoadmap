@@ -77,6 +77,8 @@ ____
 *Udemy - Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (343-344. video) - Vahit Keskin anlattı.*
 * Develop k-Nearest Neighbors Classifier in Python From Scratch
 
+____
+
 ## Unsupervised Learning Algorithms
 ### 1. K-Means Algorithm
 ** K-Means Clustering in Python (Real Python)
