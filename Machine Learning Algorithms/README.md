@@ -81,8 +81,9 @@ ____
 
 ## Unsupervised Learning Algorithms
 ### 1. K-Means Algorithm
-** K-Means Clustering in Python (Real Python)
-* [K-Means Clustering in Python: A Practical Guide – Real Python](https://realpython.com/k-means-clustering-python/) 
+**K-Means Clustering in Python (Real Python)**
+
+* [K-Means Clustering in Python: A Practical Guide – Real Python](https://realpython.com/k-means-clustering-python/)
   1. practical-k-means-syntethic.ipynb
   2. practical-k-means-cancer-gene-expression.ipynb 
 
