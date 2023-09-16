@@ -63,6 +63,9 @@ ____
 
 *Bölüm 12 - Makine Öğrenmesi IV – Sınıflandırma Problemleri (340-341. videolar) - Vahit Keskin anlattı.*
 
+#### Naive Bayes in Python from scratch (Youtube - Normalized Nerd)
+* [Naive Bayes in Python (from scratch!)](https://www.youtube.com/watch?v=3I8oX3OUL6I) 
+
 ### 3. K-Nearest Neighbors Classifier
 
 #### K-Nearest Neighbors Classifier - Teori
