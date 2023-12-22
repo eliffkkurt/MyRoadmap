@@ -35,7 +35,8 @@
 - Olasılık Dağılımlarına Giriş (Udemy-Vahit Keskin)
 - [Histogramlar (Statquest)](https://www.youtube.com/watch?v=qBigTkBLU6g&t=20s)
 - [İstatistiksel Dağılım (Statquest)](https://www.youtube.com/watch?v=oI3hZJqXJuc&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=2)
-
+- Normal Dağılım, Z-Score Standardizasyon ve Normalizasyon (Medium-Gülcan Öğündür)
+  
 - #### Bernoulli Dağılımı 
   İki sonuçlu bir olaylar ilgilendiğimizde kullanılır.
 
