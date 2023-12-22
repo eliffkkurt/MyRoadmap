@@ -35,7 +35,6 @@
 - Olasılık Dağılımlarına Giriş (Udemy-Vahit Keskin)
 - [Histogramlar (Statquest)](https://www.youtube.com/watch?v=qBigTkBLU6g&t=20s)
 - [İstatistiksel Dağılım (Statquest)](https://www.youtube.com/watch?v=oI3hZJqXJuc&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=2)
-- Normal Dağılım, Z-Score Standardizasyon ve Normalizasyon (Medium-Gülcan Öğündür)
   
 - #### Bernoulli Dağılımı 
   İki sonuçlu bir olaylar ilgilendiğimizde kullanılır.
@@ -66,7 +65,7 @@
 
 - #### Normal Dağılımı
   **Örnek Problem:** Dağılımın normal olduğu biliniyor. Aylık ortalama satış sayısı 80K, standart sapması 5K'ymış. 90K'dan fazla satış yapma olasılığı nedir?
-
+  - Normal Dağılım, Z-Score Standardizasyon ve Normalizasyon (Medium-Gülcan Öğündür)
   - Normal Dağılım (Udemy-Vahit Keskin)
   - Normal Dağılım Uygulama (Udemy-Vahit Keskin)
 
